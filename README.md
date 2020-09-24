@@ -1,1 +1,1 @@
-# ps_FileDirSearch_sample
+PowerShellでファイル・ディレクトリ検索をするサンプルスクリプト
